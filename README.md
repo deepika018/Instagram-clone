@@ -34,5 +34,6 @@ Welcome to the **Instagram Clone** — a modern and engaging social media platfo
 - ✨ **Explore Section** with recommended posts based on user interests.  
 - ✨ **Push Notifications** for real-time engagement alerts.
 
+![Screenshot of App](https://i.ibb.co/PjkYLCk/Group-34.png)
 
 
